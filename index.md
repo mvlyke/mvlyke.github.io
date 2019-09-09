@@ -4,4 +4,4 @@
 
 <body style="background-color:powderblue;">
 
-<p style="text-align:center; color:steelblue;">Thanks for coming to see my snapshots. I hope you enjoy the composition, please feel free to contact me for inquries about setting up a photoshoot. </p>
+<p style="text-align:center; color:steelblue; font-size:180%;">Thanks for coming to see my snapshots. I hope you enjoy the composition, please feel free to contact me for inquries about photoshoots. </p>
