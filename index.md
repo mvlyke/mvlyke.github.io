@@ -1,5 +1,6 @@
 <meta charset="UTF-8">
   
+  <div style="background-color:#65A9D8"><h1 style="color:#689DC1">Photo PhiX</h1>
   
   <h1 style="color:steelblue;">Max's photos phix</h1> 
 
